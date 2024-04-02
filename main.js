@@ -1,4 +1,4 @@
-const URL = "/productos.json";
+const URL = "productos.json";
 let productos = [];
 
 const contenedorProductos = document.querySelector("#contenedor-productos");
