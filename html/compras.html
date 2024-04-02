@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>La Vinoteca - Bebidas</title>
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+  <body>
+    <header>
+      <a href="../index.html"
+        ><img
+          id="logo"
+          src="../assets/Vinoteca logo 2.jpg"
+          alt="Logo de vinoteca"
+      /></a>
+      <div id="h1-h2-parrafo">
+        <h1>LA VINOTECA - Todo en Bebidas</h1>
+        <h2>Sabemos de vinos</h2>
+      </div>
+      <div id="buscar">
+        <input
+          type="text"
+          value=""
+          name="search"
+          autocomplete="off"
+          placeholder="Buscar"
+        />
+      </div>
+      <div>
+        <div class="carrito-compras">
+          <a href="../index.html" class="cart-summ" data-items-count="0"
+            ><img
+              id="carrito"
+              src="../assets/icons8-carrito-de-compras-100.png"
+              alt="carrito"
+            />
+            <div class="contador-carrito">
+              Carrito 0 artículos de
+              <span class="price-summ cart-totals"
+                ><span class="woocommerce-Price-amount amount"
+                  ><bdi
+                    ><span class="woocommerce-Price-currencySymbol">$</span
+                    >0</bdi
+                  ></span
+                ></span
+              >
+            </div>
+          </a>
+          <div class="widget_shopping_cart_content">
+            <div class="woocommerce-mini-cart cart_list product_list_widget">
+              <p class="mensaje-carrito-vacio">
+                No hay productos en en carrito
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main>
+      <div id="main-compras">
+        <aside>
+          <ul>
+            <li id="vinos-blancos"><a href="#">Vinos Blancos</a></li>
+            <li id="vinos-tintos"><a href="#">Vinos Tintos</a></li>
+            <li id="vinos-rosados"><a href="#">Vinos Rosados</a></li>
+            <li id="cervezas"><a href="#">Cervezas</a></li>
+            <li id="champagne"><a href="#">Champagne</a></li>
+          </ul>
+        </aside>
+      </div>
+      <div id="carrito-contenedor">
+        <h2>Mi Carrito</h2>
+        <div id="productos-carrito"></div>
+        <div>Total: $<span id="total-carrito">0</span></div>
+        <div><button id="vaciar-carrito">Vaciar Carrito</button></div>
+      </div>
+    </main>
+    <script
+      src="https://kit.fontawesome.com/4e60a307b5.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../carrito.js"></script>
+  </body>
+</html>
