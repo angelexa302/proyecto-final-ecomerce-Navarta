@@ -2,126 +2,126 @@
   {
     "id": "vino-01",
     "titulo": "Malbec kaiken",
-    "imagen": "../assets/vino-malbec-kaiken-aventura-chacayes-norte-750-ml.jpg",
+    "imagen": "assets/vino-malbec-kaiken-aventura-chacayes-norte-750-ml.jpg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-02",
     "titulo": "Inframundo",
-    "imagen": "../assets/vino-organico-blend-inframundo-natural-750-ml.jpg",
+    "imagen": "assets/vino-organico-blend-inframundo-natural-750-ml.jpg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-03",
     "titulo": "Bousquet",
-    "imagen": "../assets/vino-organico-domaine-bousquet-ameri-blend-750-ml.jpg",
+    "imagen": "assets/vino-organico-domaine-bousquet-ameri-blend-750-ml.jpg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-04",
     "titulo": "Chardonnay",
-    "imagen": "../assets/vino-organico-domaine-bousquet-gran-reserva-chardonnay-750-ml.jpg",
+    "imagen": "assets/vino-organico-domaine-bousquet-gran-reserva-chardonnay-750-ml.jpg",
     "precio": 1540,
     "categoria": "Vinos Blancos"
   },
   {
     "id": "vino-05",
     "titulo": "Malbec",
-    "imagen": "../assets/vino-organico-domaine-bousquet-malbec-750-ml.jpg",
+    "imagen": "assets/vino-organico-domaine-bousquet-malbec-750-ml.jpg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-06",
     "titulo": "Bousquet",
-    "imagen": "../assets/vino-organico-domaine-bousquet-virgen-malbec-750-ml.jpg",
+    "imagen": "assets/vino-organico-domaine-bousquet-virgen-malbec-750-ml.jpg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-07",
     "titulo": "Catena",
-    "imagen": "../assets/vino-organico-ernesto-catena-gran-siesta-adobe-caja.jpg",
+    "imagen": "assets/vino-organico-ernesto-catena-gran-siesta-adobe-caja.jpg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-08",
     "titulo": "Patriota",
-    "imagen": "../assets/vino-organico-ernesto-catena-tikal-patriota-blend-750-ml.jpg",
+    "imagen": "assets/vino-organico-ernesto-catena-tikal-patriota-blend-750-ml.jpg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-09",
     "titulo": "Rose",
-    "imagen": "../assets/vino-organico-finca-del-nunca-jamas-etcetera-rose-de-malbec-750-ml.jpg",
+    "imagen": "assets/vino-organico-finca-del-nunca-jamas-etcetera-rose-de-malbec-750-ml.jpg",
     "precio": 1540,
     "categoria": "Vinos Rosados"
   },
   {
     "id": "vino-10",
     "titulo": "Haarth",
-    "imagen": "../assets/vino-organico-haarth-malbec-750-ml (1).jpg",
+    "imagen": "assets/vino-organico-haarth-malbec-750-ml (1).jpg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-11",
     "titulo": "Lurton",
-    "imagen": "../assets/vino-organico-piedra-negra-jackot-gran-lurton-ig-chacayes-750-ml.jpg",
+    "imagen": "assets/vino-organico-piedra-negra-jackot-gran-lurton-ig-chacayes-750-ml.jpg",
     "precio": 1540,
     "categoria": "Vinos Blancos"
   },
   {
     "id": "vino-12",
     "titulo": "Chacayes",
-    "imagen": "../assets/vino-malbec-kaiken-aventura-chacayes-norte-750-ml.jpg",
+    "imagen": "assets/vino-malbec-kaiken-aventura-chacayes-norte-750-ml.jpg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-13",
     "titulo": "Sauvignon",
-    "imagen": "../assets/trivento-reserve-cabernet-sauvignon-2021-vino-trivento-767257.jpeg",
+    "imagen": "assets/trivento-reserve-cabernet-sauvignon-2021-vino-trivento-767257.jpeg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-14",
     "titulo": "Trivento",
-    "imagen": "../assets/trivento-white-malbec-2020-vino-trivento-489493.jpeg",
+    "imagen": "assets/trivento-white-malbec-2020-vino-trivento-489493.jpeg",
     "precio": 1540,
     "categoria": "Vinos Blancos"
   },
   {
     "id": "vino-15",
     "titulo": "Reserve",
-    "imagen": "../assets/trivento-reserve-cabernet-sauvignon-2021-vino-trivento-767257.jpeg",
+    "imagen": "assets/trivento-reserve-cabernet-sauvignon-2021-vino-trivento-767257.jpeg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-16",
     "titulo": "2022",
-    "imagen": "../assets/trivento-reserve-malbec-2022-vino-trivento-951551_600x.jpeg",
+    "imagen": "assets/trivento-reserve-malbec-2022-vino-trivento-951551_600x.jpeg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-17",
     "titulo": "Casillero",
-    "imagen": "../assets/casillero-del-diablo-red-blend-2019-vino-concha-y-toro-381331_600x.jpeg",
+    "imagen": "assets/casillero-del-diablo-red-blend-2019-vino-concha-y-toro-381331_600x.jpeg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   },
   {
     "id": "vino-18",
     "titulo": "Trivento",
-    "imagen": "../assets/trivento-reserve-cabernet-sauvignon-2021-vino-trivento-767257.jpeg",
+    "imagen": "assets/trivento-reserve-cabernet-sauvignon-2021-vino-trivento-767257.jpeg",
     "precio": 1540,
     "categoria": "Vinos Tintos"
   }
