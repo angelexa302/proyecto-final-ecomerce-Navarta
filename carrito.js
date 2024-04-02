@@ -32,7 +32,7 @@ function actualizarCarrito() {
 
   productosCarrito.forEach((producto) => {
     const div = document.createElement("div");
-    div.innerHTML = `<img class="imagen-carrito" src="/${producto.imagen}"></img> <p>${producto.titulo} - $${producto.precio}</p>
+    div.innerHTML = `<img class="imagen-carrito" src="${producto.imagen}"></img> <p>${producto.titulo} - $${producto.precio}</p>
         <button onclick= "removerDelCarrito('${producto.id}')">Remover</button> 
         `;
     contenedorProductosCarrito.appendChild(div);
